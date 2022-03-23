@@ -1,1 +1,1 @@
-worker: npm i ffmpeg && npm start
+worker: yarn && npm i ffmpeg && npm start
